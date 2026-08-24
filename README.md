@@ -1,4 +1,4 @@
-# 🏅 2026 Data Masters Challenge 
+ # 🏅 2026 Data Masters Challenge — 2nd Place
 
 ## 📌 Project Overview
 This repository contains our end-to-end data science workflow for the **2026 Data Masters Challenge**, focused on analyzing athlete data for the Milan-Cortina Winter Olympics.
