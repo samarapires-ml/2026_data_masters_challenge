@@ -1,6 +1,13 @@
  # 🏅 2026 Data Masters Challenge — 2nd Place
 End-to-end data science project analyzing Milan-Cortina 2026 athlete data through data cleaning, exploratory analysis, predictive modeling, and business insights.
 
+## Project Highlights
+
+- **2nd Place** in the 2026 Data Masters Challenge
+- Built an end-to-end data science workflow covering **data cleaning, EDA, predictive modeling, model evaluation, and visualization**
+- Analyzed **Milan-Cortina 2026 athlete data** to generate predictive and business insights
+- Developed collaboratively as a four-person team, with Samara serving as **Project Lead**
+
 ## 📌 Project Overview
 This repository contains our end-to-end data science workflow for the **2026 Data Masters Challenge**, focused on analyzing athlete data for the Milan-Cortina Winter Olympics.
 
